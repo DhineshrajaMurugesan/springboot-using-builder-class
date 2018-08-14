@@ -1,0 +1,22 @@
+{
+    "run": [
+        {
+            "name": "sampll",
+            "projectName": "sampll",
+            "workingDirectory": "d:\\sampll",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ],
+    "debug": [
+        {
+            "name": "sampll",
+            "projectName": "sampll",
+            "workingDirectory": "d:\\sampll",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ]
+}

@@ -7,10 +7,10 @@ import org.springframework.boot.web.servlet.ServletRegistrationBean;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-public class SampllApplication {
+public class SampleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SampllApplication.class, args);
+		SpringApplication.run(SampleApplication.class, args);
 	}
 	@Bean
 	public ServletRegistrationBean h2servletRegistration() {
